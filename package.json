@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "Shreekant",
-  "homepage": "https://shreekantgosavi.github.io/",
+  "name": "masterPortfolio",
+  "homepage": ".",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
